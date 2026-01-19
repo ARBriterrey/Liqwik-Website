@@ -10,6 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Liqwik-Website/', // GitHub Pages base path
   resolve: {
     alias: {
       // Alias @ to the src directory
