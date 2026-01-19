@@ -10,7 +10,7 @@ import { Terms } from './pages/Terms';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <div className="min-h-screen bg-white">
         <Navbar />
         <Routes>
