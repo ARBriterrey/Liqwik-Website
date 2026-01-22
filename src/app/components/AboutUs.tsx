@@ -14,7 +14,7 @@ export function AboutUs() {
           className="mb-12"
         >
           <div className="w-12 h-1 bg-black mb-6"></div>
-          <h1 className="text-4xl font-bold text-black mb-1">Liqwik</h1>
+          <h1 className="text-5xl font-bold text-black mb-1">Liqwik</h1>
           <p className="text-xl text-gray-400">Fintech</p>
         </motion.div>
 
@@ -26,11 +26,8 @@ export function AboutUs() {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="mb-10"
         >
-          <p className="text-gray-600 leading-relaxed mb-6">
-            Liqwik is a high-tech, professional, and trustworthy platform shaping the future of working capital. As a CAAS solution, we merge finance and blockchain to unlock instantaneous liquidity for businesses globally.
-          </p>
           <p className="text-gray-600 leading-relaxed">
-            Our founding principles are rooted in innovation, transparency, and security. We transform receivables into liquid, tradable assets, enabling unprecedented efficiencies for our clients.
+            Liqwik is a global digital exchange that enables frictionless accounts receivable trading through an auction system. It enables efficient price discovery of current assets unlike today's systems of arbitrary and expensive pricing. As a CAAS solution, it enables unlocking of tied up liquidity for businesses globally through private contract mechanisms. Unlike other similar platforms, Liqwik provides a secondary market as well as fractional bidding. Liqwik transforms current models of working capital finance and enables a new asset class for retail investors.
           </p>
         </motion.div>
 
@@ -88,7 +85,7 @@ export function AboutUs() {
 
           <div className="space-y-4 text-gray-600 leading-relaxed mt-4">
             <p>
-              Kumar Kittuswamy Ph.D., Founder & Principal of Liqwik, is a global leader in financial innovation. As a Board Member of a $15B financial institution, he combines unmatched expertise in finance and blockchain technology.
+              Kumar Kittuswamy Ph.D., Founder & Principal of Liqwik, is a global leader in financial innovation. As a Board Member of a $30B financial institution, he combines unmatched expertise in finance and blockchain technology.
             </p>
             <p>
               Kumar's doctoral thesis provides the intellectual foundation for Liqwik. His vision is to transform receivable trading using secure, smart contract-driven exchanges, making finance seamless and borderless.

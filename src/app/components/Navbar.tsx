@@ -11,7 +11,7 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="text-purple-700 flex items-center gap-1 hover:text-purple-800 transition-colors z-50 relative">
-            <span className="font-['Inter'] font-bold text-xl">Liqwik</span>
+            <span className="font-['Inter'] font-bold text-2xl">Liqwik</span>
             <span className="text-xs font-['Inter']">®</span>
           </Link>
 
